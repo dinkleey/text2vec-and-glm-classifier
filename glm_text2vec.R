@@ -20,7 +20,7 @@ summary(df)
 
 
 
-#===================== subset data - "Gama de produse" =====================================
+#===================== subset data - "product range" =====================================
 
 
 df_gama<-df[which(df$CATEGORY=='product range'),]
